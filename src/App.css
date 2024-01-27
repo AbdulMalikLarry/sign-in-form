@@ -1,0 +1,12 @@
+div {
+  padding: 3%;
+}
+
+.form2 {
+  background-color: rgb(255, 255, 255);
+  height: 900px;
+  width: 600px;
+  padding: 3%;
+  box-shadow: 10px 10px 10px rgb(172, 172, 172);
+}
+
